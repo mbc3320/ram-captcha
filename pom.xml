@@ -6,6 +6,7 @@
 
     <groupId>top.beanshell</groupId>
     <artifactId>ram-captcha</artifactId>
+    <name>ram-captcha</name>
     <version>1.0.0</version>
     <modules>
         <module>ram-captcha-api</module>
